@@ -1,1 +1,1 @@
-# desktoptest
+This is sample repository to test github desktop application
